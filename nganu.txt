@@ -1,0 +1,7 @@
+pyrogram
+gitpython
+enhancer
+telegraph
+requests
+python-decouple
+aiohttp
